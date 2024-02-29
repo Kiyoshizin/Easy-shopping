@@ -1,4 +1,4 @@
-<h1> Mais um Concluido/h1>
+<h1> Mais um Concluido</h1>
 
 <p>Mais um projeto do meu treinamento concluido com sucesso.</p>
 
