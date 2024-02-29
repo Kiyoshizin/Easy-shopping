@@ -12,3 +12,8 @@
 </div>
 
   ##
+
+  resultado do desafio:
+  <br>
+  <br>
+  <img src="https://github.com/Kiyoshizin/Easy-shopping/blob/main/img/easy-shop-image.jpg"/>
